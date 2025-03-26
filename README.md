@@ -25,6 +25,7 @@ The code is provided in a Jupyter Notebook (Cybersecurity_Threat_Classification.
 
 - Step 2: Load the Dataset
 The dataset used UNSW-NB15 contains labeled network traffic data.
+You can Download the dataset from [here](https://research.unsw.edu.au/projects/unsw-nb15-dataset)
 Ensure the dataset file is available and update the file path in the notebook if necessary.
 
 - Step 3: Preprocess the Data
